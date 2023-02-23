@@ -258,7 +258,7 @@
     }
 
   }
-  document.addEventListener("mousemove", mousemoveHandler);
+  // document.addEventListener("mousemove", mousemoveHandler);
   /////////////////////////////////////////////////////
 
 
